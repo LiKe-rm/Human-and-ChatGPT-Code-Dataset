@@ -1,0 +1,6 @@
+# IDE
+.vscode/
+.idea/
+
+# compile file
+target/
